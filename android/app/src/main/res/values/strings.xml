@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Discipline uses accessibility to help block distractions until your scheduled task is completed.</string>
+    <string name="alarm_screen_title">Task Reminder</string>
+    <string name="alarm_elapsed_label">Elapsed Time</string>
+    <string name="alarm_done">Done</string>
+    <string name="alarm_snooze">Snooze</string>
+    <string name="alarm_continue">Continue</string>
+    <string name="alarm_default_subtitle">Complete this task to stop reminders.</string>
+    <string name="alarm_snooze_toast">Snoozed for %1$d minutes</string>
+    <string name="alarm_elapsed_waiting">Waiting</string>
+</resources>

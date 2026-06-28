@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alarm_background">#FF0D0D0F</color>
+    <color name="alarm_surface">#FF1A1A1E</color>
+    <color name="alarm_surface_variant">#FF25252B</color>
+    <color name="alarm_primary_text">#FFE8E8EA</color>
+    <color name="alarm_secondary_text">#FF8B8B95</color>
+    <color name="alarm_accent">#FF6C9EFF</color>
+    <color name="alarm_accent_dark">#FF0D0D0F</color>
+    <color name="alarm_overdue">#FFFF6B6B</color>
+    <color name="alarm_outline">#FF2E2E35</color>
+</resources>
